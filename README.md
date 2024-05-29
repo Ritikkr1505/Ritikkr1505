@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ritikkr1505](https://github.com/Ritikkr1505)
+- 👨‍💻 All of my projects are available at [https://github.com/Ritikkr1505](https://github.com/Ritikkr1505?tab=repositories)
 
 - 📫 How to reach me **ritikkumarranjan24@gmail.com**
 
